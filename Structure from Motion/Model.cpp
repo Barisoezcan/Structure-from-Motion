@@ -270,8 +270,7 @@ void Model::createModel()
 
 				//P_temp = P_temp.inv();
 				
-				test
-
+				hdcnurehiu
 				SM.berechnePointCloud(bildpaare[make_pair(j, i)].Bild1.image, bildpaare[make_pair(j, i)].Bild2.image, K, R_rel, t_rel, bildpaare[make_pair(j, i)].R1_rect, bildpaare[make_pair(j, i)].Bild1.P, bildpaare[make_pair(j, i)].Bild2.P, bildpaare[make_pair(j, i)].denseCloud, bildpaare[make_pair(j, i)].denseCloud_color, minx1, minx2 + 200, miny1, miny2);
 
 
