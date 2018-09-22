@@ -1,0 +1,3 @@
+D:\Bilddaten\Beton\Nedo-Serie1\15.05.2018\image_x2_y2.bmp
+D:\Bilddaten\Beton\Nedo-Serie1\15.05.2018\image_x2_y3.bmp
+D:\Bilddaten\Beton\Nedo-Serie1\15.05.2018\calibration.yml

@@ -1,0 +1,3 @@
+D:\Bilddaten\Beton\Nedo-Serie2\30x30_ExposureTime_100030\image_x0_y3.bmp
+D:\Bilddaten\Beton\Nedo-Serie2\30x30_ExposureTime_100030\image_x0_y4.bmp
+D:\Bilddaten\Beton\Nedo-Serie2\30x30_ExposureTime_100030\calibration.yml

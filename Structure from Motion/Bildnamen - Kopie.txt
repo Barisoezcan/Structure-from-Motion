@@ -1,0 +1,4 @@
+D:\Bilddaten\Beton\Betonoberflaeche\Image (0_undist).jpg
+D:\Bilddaten\Beton\Betonoberflaeche\Image (1_undist).jpg
+D:\Bilddaten\Beton\Betonoberflaeche\Image (2_undist).jpg
+D:\Bilddaten\Beton\Betonoberflaeche\calibration.yml

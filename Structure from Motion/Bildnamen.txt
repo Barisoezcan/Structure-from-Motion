@@ -1,0 +1,4 @@
+D:\Photoscan Projekte\150626_Ponttor\undistort\renamed\Bild24.jpg
+D:\Photoscan Projekte\150626_Ponttor\undistort\renamed\Bild25.jpg
+D:\Photoscan Projekte\150626_Ponttor\undistort\renamed\Bild26.jpg
+D:\Photoscan Projekte\150626_Ponttor\calibration.yml
